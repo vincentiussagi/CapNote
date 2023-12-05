@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995922611383",
+    "project_id": "nocap-9f939",
+    "storage_bucket": "nocap-9f939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995922611383:android:e032693e38bce5c7c31132",
+        "android_client_info": {
+          "package_name": "com.example.nocap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc50yMSDmz9dapqg9bvqy6AKsjM2dV4bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
