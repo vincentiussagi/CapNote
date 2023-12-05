@@ -15,7 +15,7 @@ The app is designed to run on mobile devices running Android 10.0 or later.
 ## Installing the app
 To install the app, download the .apk file in the releases section.
 
-# Working with the "Food Mood" app
+# Working with the "NoCap🎓" app
 ## Running the app
 To launch the app, click on the corresponding icon, which is located in the menu of the mobile device. Clicking on this icon opens an authorization window in which the user needs to enter an email address and password.
 
