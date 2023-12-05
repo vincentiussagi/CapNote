@@ -17,6 +17,6 @@ To install the app, download the .apk file in the releases section.
 
 # Working with the "NoCap🎓" app
 ## Running the app
-To launch the app, click on the corresponding icon, which is located in the menu of the mobile device. Clicking on this icon opens an authorization window in which the user needs to enter an email address and password.
+To launch the app, click on the corresponding icon, which is located in the menu of the mobile device. Clicking on this icon opens an authorization window in which the user needs to enter an Gogole account and password.
 
-By clicking on the "Create an account" button, the user is redirected to the registration window, where he needs to enter the last name, first name, phone number, email address and twice the password.
+After already logging in with a Google account, the user can fully access the app.
