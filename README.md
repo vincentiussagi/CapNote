@@ -4,10 +4,15 @@
 Many students  To address this issue, our team aims to develop a mobile application named "" that can automatically convert slides or board photos into editable notes. Using machine learning techniques, the app will recognize and extract text from images, formatting and organizing them into easily accessible and editable notes for students.
 
 The "NoCap🎓" mobile application is designed for students who face the problem of not being able to take notes or understand the lecture content when the lecturer changes the slide or board too fast.
+
+## Main Feature
 The app provides the following features for the user:
-* Authorization and authentication
-* OCR
-* (...)
+* Firebase Google Authorization and authentication
+  - we included firebase login using google sign in method to enhance experience and simplify user authorization 
+* Add new topic
+  - this is the main key of our app, using trained ML that we create on scratch, and deploy it as web service (API) to recognize text on submited picture
+* local databases
+    - using RoomDb library as part of android jetpack to saving topic or data user in our APP
 
 ## Software and hardware requirements
 The app is designed to run on mobile devices running Android 10.0 or later.
