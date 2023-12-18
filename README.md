@@ -63,7 +63,7 @@ The app provides the following features for the user:
 * local databases
     - using RoomDb library as part of android jetpack to saving topic or data user in our APP
 
-## Depedencies
+### Depedencies
 * [Firebase](https://firebase.google.com/?hl=id)
 * [Material Dialog](https://github.com/afollestad/material-dialogs?tab=readme-ov-file)
 * [RoomDb](https://developer.android.com/training/data-storage/room?hl=id)
