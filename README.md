@@ -35,6 +35,7 @@ An instance of the Flask web application is created with the name `app`.
 - Processes each segmented region, normalizes, and reshapes it to match the input size of the loaded model.
 - Makes predictions using the loaded model for each segmented region.
 - Assembles the predicted labels into a single string (predicted_text) and returns it as a JSON response.
+  
 **2. `/` Route**
 - Displays 'Hello World' when accessing the root URL.
 
