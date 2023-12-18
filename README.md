@@ -11,6 +11,8 @@ The app provides the following features for the user:
   - we included firebase login using google sign in method to enhance experience and simplify user authorization 
 * Add new topic
   - this is the main key of our app, using trained ML that we create on scratch, and deploy it as web service (API) to recognize text on submited picture
+* Take picture using camera
+  - this is an addtional feature to sumbit picture of our APP
 * local databases
     - using RoomDb library as part of android jetpack to saving topic or data user in our APP
 
