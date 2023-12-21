@@ -6,8 +6,10 @@ Many students  To address this issue, our team aims to develop a mobile applicat
 The "NoCap🎓" mobile application is designed for students who face the problem of not being able to take notes or understand the lecture content when the lecturer changes the slide or board too fast.
 
 ## Machine Learning
-### Model Development
-# Model Building
+
+[Machine Learning Flowchart](https://github.com/vincentiussagi/NoCap/tree/master/Flowchart)
+
+### Model Building
  Here's the documentation for the provided code, incorporating insights from feedback and addressing noted issues:
 **Purpose:**
 - This code builds a convolutional neural network (CNN) to perform optical character recognition (OCR), specifically character classification.
