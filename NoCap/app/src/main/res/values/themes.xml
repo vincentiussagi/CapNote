@@ -2,7 +2,12 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.NoCap" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/grey</item>
+        <item name="android:backgroundTint">@color/bg_default</item>
+
+        <item name="md_color_title">@color/white</item>
+        <item name="md_color_content">@color/white</item>
+        <item name="md_color_button_text">@color/yellow</item>
     </style>
 
     <style name="Theme.NoCap" parent="Base.Theme.NoCap" />

@@ -21,14 +21,16 @@
             android:orientation="vertical"
             android:paddingVertical="24dp">
 
-            <androidx.appcompat.widget.AppCompatTextView
+            <androidx.appcompat.widget.AppCompatEditText
                 android:id="@+id/tv_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="24dp"
                 android:fontFamily="@font/lato_bold"
                 android:gravity="center_vertical"
-                android:text="lorem ipsum"
+                android:text=""
+                android:hint="Enter title"
+                android:textColorHint="@color/light_grey"
                 android:textColor="@color/white"
                 android:textSize="16sp" />
         </androidx.appcompat.widget.LinearLayoutCompat>
@@ -74,4 +76,15 @@
                 android:textSize="16sp" />
         </androidx.appcompat.widget.LinearLayoutCompat>
     </androidx.cardview.widget.CardView>
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_save_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="@font/lato"
+        android:text="Save Data"
+        android:background="@color/light_grey"
+        android:textColor="@color/white" />
 </androidx.appcompat.widget.LinearLayoutCompat>
